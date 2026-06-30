@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+statsmodels>=0.14
+imbalanced-learn>=0.12
+networkx>=3.2
+dowhy>=0.11
+jupyter>=1.0
+notebook>=7.0

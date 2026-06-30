@@ -1,0 +1,37 @@
+# --- Byte-compiled / cache files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Distribution / packaging ---
+build/
+dist/
+*.egg-info/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+
+# --- Environment / secrets ---
+.env
+
+# --- Logs ---
+*.log
+
+# --- Large / raw data (only ignore if hosted externally per size limits) ---
+# Uncomment the line below ONLY if Loan_default.csv exceeds GitHub's 100MB limit
+# and is instead downloaded via script or linked via Sciebo (see README.md)
+# data/Loan_default.csv
