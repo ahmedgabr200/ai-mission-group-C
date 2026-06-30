@@ -98,13 +98,12 @@ Full results, tables, and figures are available in the notebook (Section 11) and
 .
 ├── README.md                  # This file
 ├── requirements.txt           # Python dependencies
+├── Loan_default.csv
 ├── LICENSE                    # MIT License (code) — see note on dataset license
 ├── .gitignore                 # Python / Jupyter ignore rules
 ├── Final_Notebook.ipynb       # Final, fully executed Jupyter Notebook (proposal + submission)
 ├── Presentation.pdf           # Final presentation slides (PDF, oral-exam format)
-├── data/                      # Dataset(s) or data-access instructions
-├── docs/                      # Supplementary documentation
-└── images/                    # Exported figures used in README / docs
+
 ```
 
 ## 7. Installation
